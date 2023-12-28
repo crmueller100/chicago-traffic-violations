@@ -1,3 +1,4 @@
 __pycache__/
 env/
 hidden_config.py
+.DS_Store
