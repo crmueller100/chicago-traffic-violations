@@ -40,7 +40,7 @@ Note: We can also see that the highest point on the Speed Camera Violations subp
 I've implied several times in this analysis that the number of tickets issued is commensurate with how active the social scene is in Chicago. If you were doubting me, then take a look at the chart below. For speed cameras, Saturday and Sunday were 30% above the average for the rest of the week. Those numbers were down to 20% over for red light cameras, but it's still significant. This is also likely when people come to visit the city and aren't aware of how the cameras work and where they are located.
 ![average_violations_per_day_of_week](plots/average_violations_per_day_of_week.png)
 
-### Communitiews
+### Communities
 As this is certainly the most elaborate chart on this analysis, let's take a moment to discuss it. 
 
 ![choropleth_of_communities](plots/choropleth_of_communities.png)
