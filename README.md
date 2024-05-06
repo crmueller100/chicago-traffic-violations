@@ -19,13 +19,9 @@ I was shocked to see that a mere 181 speed cameras and 365 red light cameras wer
 
 ### History
 I obviously wanted to see how the issuing of tickets has changed over time. Consider the chart below that counts the number of speed and red light camera violations since 2014. 
-<!-- ![count_total_violations_over_time](plots/count_total_violations_over_time.png) -->
-<!-- ![moving_average_total_violations_over_time](plots/moving_average_total_violations_over_time.png) -->
 
-<div style="display: flex;">
-    <img src="plots/count_total_violations_over_time.png" alt="Image 1" style="width: 50%;">
-    <img src="plots/moving_average_total_violations_over_time.png" alt="Image 2" style="width: 50%;">
-</div>
+![count_total_violations_over_time](plots/count_total_violations_over_time.png)
+![moving_average_total_violations_over_time](plots/moving_average_total_violations_over_time.png)
 
 
 Naturally, these charts elicit the question of what happened in March of 2021 that caused such an aggressive spike in the issuing of speed camera violations. The decline in violations leading up to March can be attributed to two things. First, the city's COVID lockdown. People were staying inside -> there were fewer cars on the road -> there were fewer tickets issued to said cars. As the summer of 2021 was approaching, the weather was starting to warm, COVID mandates were being lifted, and the city was coming back to life. The second, much more consequential action that prompted the cities rise in traffic tickets has to do with legislation. It was in March of 2021 that the mayor of Chicago **reduced** the minimium speed required to be cited by a speed camera. For many years, it was 10mph or more would get you the ticket. In March 2021, they added a new tier where going 6-10mph over the speed limit would get you a ticket ([source](https://abc7chicago.com/chicago-speed-camera-ticket-cameras-pay-speeding/13255936/)). It should be noted that the tickets take a few weeks to review and mail to the residents, so it's common for people to get rung up a few times by the same camera before being informed they had done so.
